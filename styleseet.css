@@ -1,0 +1,58 @@
+.ok{
+    color: black;
+    text-align: center;
+    font-style: italic;
+    font-size: 2em;
+    font-family: "notable", sans-serif;
+    overflow: hidden;
+    
+    
+
+
+}
+
+body{
+    background-color: red;
+    background-image: url('cr7.png');
+background-size: 30% 60%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+    
+}
+
+.font-effect-neon{
+
+    text-align: center;
+    font-family: "Sofia", sans-serif;
+  font-size: 30px;
+ 
+}
+
+a:link{
+    color: black;
+}
+a:visited {
+    color: blue;
+}
+a:hover{
+    color: purple;
+}
+a:active{
+    color: red;
+}
+ 
+.he{
+   text-align: center;
+   
+    
+}
+.he a{
+    text-decoration: none;
+   color: white;
+   text-transform: uppercase;
+   cursor: pointer;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+border: 2px dotted black;
+padding: 2px;
+
+}
